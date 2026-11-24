@@ -113,4 +113,4 @@ https://doi.org/10.24432/C55S3H. Licença [CC BY 4.0](https://creativecommons.or
 
 ---
 
-**Julia Beltrão** · Análise de dados · [GitHub](https://github.com/juliaragibeltrao)
+**Julia Ragi** · Análise de dados · [GitHub](https://github.com/juliaragibeltrao)
