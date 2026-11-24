@@ -1,0 +1,15 @@
+# Jupyter e Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Arquivos gerados ao rodar o notebook
+notebooks/images/
+fonte_*.ttf
+fonte_variavel.ttf
+*.xls
+*.zip
+
+# Sistema
+.DS_Store
+Thumbs.db
